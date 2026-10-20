@@ -134,7 +134,7 @@ We specialize in end-to-end ERP solutions for the jewellery industry, retail POS
 Feel free to connect with our team for enterprise software consulting, product demos, or technical support:
 
 - 🏢 **Entity Name**: **Blogtec Software LLP**
-- 📍 **Registered Address**: 1st Floor, Regent Court, 62/4063, Chittoor Rd, Iyyattil Junction, Ernakulam South, Kochi, Ernakulam, Kerala 682011, India
+- 📍 **Registered Address**: 62/4063, 1st Floor, Regent Court, Chittoor Rd, Iyyattil Junction, Ernakulam South, Kochi, Kerala 682011
 - 🌐 **Official Website**: [https://www.blogtec.co.in](https://www.blogtec.co.in/)
 - 📞 **Mobile Helpline**: [+91 79944 55922](tel:+917994455922)
 - ☎️ **Office Landline**: [0484 4539025](tel:04844539025)
